@@ -4,3 +4,15 @@
 .navbar-nav .nav-item .nav-link:hover{
     color: red;
 }
+
+/* ------------------hero section------------------ */
+
+.hero{
+    background-image: radial-gradient(rgb(255, 255, 255), rgb(253, 222, 222));
+}
+.hero-title{
+    font-size: 3rem;
+    
+
+}
+/* ------------------/hero section------------------ */
